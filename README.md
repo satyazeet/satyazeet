@@ -1,3 +1,4 @@
+[!MasterHead](https://media.licdn.com/dms/image/C4D16AQGrmMOXqyMXEg/profile-displaybackgroundimage-shrink_350_1400/0/1667929106219?e=1680134400&v=beta&t=ZrAGkf8A7gYhz6Z_d1UblvRdKqCIXzgxTe2ffhaKRaQ)
 <h1 align="center">Hi 👋, I'm Satyajit Nayak</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
